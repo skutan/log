@@ -38,8 +38,8 @@ Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smás
 
 |  Staða   |  Flokkur   |    |  
 |:-----------|:-----------|:-----------|
-| <span class="badge-big1">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small"> |
-| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small"> |
+| <span class="badge-big1">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small"> |
+| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small"> |
 
 
 <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
@@ -136,24 +136,14 @@ Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavör�
 
 ## Merking tákna
 
+|  |  |
+|:----|:----|
+| <img src='/logskraning/images/icon_check.png' class="icon-small">| Lögskráð hefur verið í stöðuna |
+| <img src='/logskraning/images/icon_question.png' class="icon-small">| Ekki er skylt að lögskrá í stöðuna |
+| <img src='/logskraning/images/icon_warn.png' class="icon-small">| Ekki er búið að lögskrá í stöðuna |
+| <span class="badge-big " style="color: var(--s-blue)">S</span>| Sérregla |
+| <span class="badge-big " style="color: var(--s-green)">V</span>| Viðbótarstaða |
 
-<figure>
-  <img src='/logskraning/images/icon_check.png' class="icon-small">
-  <figcaption>Lögskráð hefur verið í stöðuna</figcaption>
-</figure> 
-
-
-
-<figure>
-  <img src='/logskraning/images/icon_question.png' class="icon-small">
-  <figcaption>Ekki er skylt að lögskrá í stöðuna</figcaption>
-</figure> 
-
-
-<figure>
-  <img src='/logskraning/images/icon_warn.png' class="icon-small">
-  <figcaption>Ekki er búið að lögskrá í stöðuna</figcaption>
-</figure> 
 
 
 

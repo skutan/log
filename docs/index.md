@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "Skútan"
-  text: "Lögskráningar sjómanna"
+  text: "Lögskráningar á sjó"
   tagline: 
   image:
     src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
