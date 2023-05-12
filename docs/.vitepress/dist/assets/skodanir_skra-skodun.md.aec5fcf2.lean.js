@@ -1,0 +1,1 @@
+import{_ as s,o as i,c as r,V as a}from"./chunks/framework.5f146117.js";const d=JSON.parse('{"title":"Skrá skoðun","description":"","frontmatter":{},"headers":[],"relativePath":"skodanir/skra-skodun.md"}'),n={name:"skodanir/skra-skodun.md"},e=a("",12),t=[e];function k(o,u,g,l,p,m){return i(),r("div",null,t)}const _=s(n,[["render",k]]);export{d as __pageData,_ as default};
