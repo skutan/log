@@ -14,6 +14,8 @@ Lögskráningarkerfi sjómanna, sbr. 17. tölul. 2. gr.
 
 ## Lögskráning sjómanna
 
+<br/>
+
 **13. gr. *Lögskráningarkerfi sjómanna***
 
 Samgöngustofa annast rekstur og viðhald lögskráningarkerfis sjómanna.
@@ -21,6 +23,8 @@ Samgöngustofa annast rekstur og viðhald lögskráningarkerfis sjómanna.
 Lögskráning fer fram rafrænt. Samgöngustofa hefur umsjón með úthlutun aðgangs að lögskráningarkerfinu til lögskráningar á tiltekið skip að fenginni umsókn útgerðar skipsins samkvæmt skipaskrá. Útgerð er heimilt að fela skipstjóra eða öðrum starfsmönnum sínum að annast lögskráninguna. Útgerð getur jafnframt óskað eftir því við Samgöngustofu að lögskrá áhöfn skipsins.
 
 Upplýsingar úr lögskráningarkerfi sjómanna skulu aðeins veittar þeim sem hafa lögvarða hagsmuni og skal fylgt ákvæðum laga um persónuvernd og vinnslu persónuupplýsinga um veitingu upplýsinga.
+
+<br/>
 
 **14. gr.  *Lögskráningarskylda***
 
@@ -31,12 +35,14 @@ Upplýsingar úr lögskráningarkerfi sjómanna skulu aðeins veittar þeim sem 
 Ef útgerð vanrækir að hafa líf- og slysatryggingu í gildi er hún ábyrg fyrir viðkomandi bótagreiðslum. Reynist útgerð eigi fær um greiðslu slíkra bóta ber ríkissjóður fulla ábyrgð á greiðslu þeirra.
 Lögskrá skal farþega eða aðra um borð í skipum öðrum en farþegaskipum og farþegabátum sem ekki teljast skipverjar.
 
+<br/>
 
 **18. gr.  *Frávik frá lágmarksmönnun***
 
 Samgöngustofa hefur heimild til að ákveða frávik frá ákvæðum 16. og 17. gr. um lágmarksfjölda skipstjórnar- og vélstjórnarmanna á fiskiskipum, varðskipum og öðrum skipum eftir því sem tilefni gefst til, svo sem vegna tæknibúnaðar, gerðar og/eða verkefnis skips þar sem meðal annars skal taka tillit til vinnuálags sem breytingin kann að hafa í för með sér.
 Samgöngustofa skráir ákvarðanir sínar í **lögskráningarkerfi sjómanna.**
 
+<br/>
 
 **30. gr. *Eftirlit***
 
@@ -46,6 +52,7 @@ Samgöngustofu, Landhelgisgæslu Íslands og öðrum eftirlitsaðilum er heimilt
 
 Starfsmönnum Landhelgisgæslu Íslands er heimilt að fara um borð í íslensk skip á hafi sem í höfn og **kanna lögmæti lögskráningar** og skilríki um réttindi yfirmanna sem og hvort öðrum ákvæðum 28. gr. sé framfylgt.
 
+<br/>
 
 **31. gr.  *Þjónustugjöld***
 
@@ -57,10 +64,13 @@ Jafnframt er Samgöngustofu heimilt að innheimta gjald fyrir útgáfu skírtein
 
 [Gjaldskrá Samgöngustofu ](https://www.samgongustofa.is/um/gjaldskrar/)
 
+<br/>
+
 ## Stjórnvaldssektir
 
 Landhelgisgæsla Íslands getur lagt á stjórnvaldssektir á einstakling eða lögaðila sem brýtur gegn eða uppfyllir ekki skilyrði eftirfarandi ákvæða og reglna sem settar eru samkvæmt 1. mgr. 14. gr. um skyldur skipstjóra varðandi lögskráningu skipverja áður en haldið er út höfn og kröfur um mönnun og tryggingar, sbr. d-lið, 1. mgr. 32. gr. 
 
+<br/>
 
 
 
@@ -68,13 +78,14 @@ Landhelgisgæsla Íslands getur lagt á stjórnvaldssektir á einstakling eða l
 
 **37. gr.  *Reglugerð***
 
-Ráðherra skal setja í reglugerð 1 nánari ákvæði um:
-...........
-8. Nánari framkvæmd lögskráningar og skilyrði hennar, hvernig standa skuli að rafrænni lögskráningu í gegnum lögskráningarkerfið og notkun rafrænna skilríkja í þeim efnum, frest til þess að ljúka öryggisfræðslunámskeiði sjómanna til að fást lögskráður, hvernig standa skuli að aðgangi að gögnum og upplýsingum úr lögskráningarkerfinu til þeirra sem hafa lögvarða hagsmuni og um eftirlit með framkvæmd lögskráningar skv. 13. og 14. gr. Í reglugerð má veita undanþágu frá ákvæðum um lögskráningarskyldu áhafna tiltekinna skipa, svo sem til hafnsögubáta, dráttarbáta, björgunarskipa og frístundafiskiskipa.
+Ráðherra skal setja í reglugerð nánari ákvæði um:
+8. Nánari framkvæmd lögskráningar og skilyrði hennar, hvernig standa skuli að rafrænni lögskráningu í gegnum lögskráningarkerfið og notkun rafrænna skilríkja í þeim efnum, frest til þess að ljúka öryggisfræðslunámskeiði sjómanna til að fást lögskráður, hvernig standa skuli að aðgangi að gögnum og upplýsingum úr lögskráningarkerfinu til þeirra sem hafa lögvarða hagsmuni og um eftirlit með framkvæmd lögskráningar skv. 13. og 14. gr. Í reglugerð má veita undanþágu frá ákvæðum um lögskráningarskyldu áhafna tiltekinna skipa, svo sem til hafnsögubáta, dráttarbáta, björgunarskipa og frístundafiskiskipa.
 
 
-Reglugerð um lögskráningu sjómanna nr. 817/2010 með síðari breytingum (sett á grundvelli eldri laga um lögskráningu sjómanna, unnið er að nýrri reglugerð á grundvelli laga um áhafnir skipa nr. 82/2022): 
-https://island.is/reglugerdir/nr/0817-2010
+## Reglugerð um lögskráningu sjómanna nr. 817/2010 með síðari breytingum
+(reglugerðin er sett á grundvelli eldri laga um lögskráningu sjómanna, unnið er að nýrri reglugerð á grundvelli laga um áhafnir skipa nr. [82/2022](https://island.is/reglugerdir/nr/0817-2010)):
+
+
 
 
 

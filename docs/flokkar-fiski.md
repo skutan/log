@@ -8,7 +8,7 @@
 ## Skipstjórn
 
 |     |      |      |
-|:-----------|:-----------|:-----------|
+|:-----------|:-----------|-----------:|
 |<span class="badge-big gray1">SS</span>| Skipstjóri og stýrimaður <12 m <span class="font-red">*</span> |  |
 |<span class="badge-big gray1">SS15</span>| Skipstjóri og stýrimaður <15 m <span class="font-red">*</span> | <span class="badge gray">Námskeið</span> |
 |<span class="badge-big gray1">AB</span>| Undirstýrimaður <45 m| <span class="badge gray">A</span>|
@@ -29,7 +29,7 @@
 ## Vélstjórn
 
 |     |      | |
-|:-----------|:-----------|:-----------|
+|:-----------|:-----------|-----------:|
 |<span class="badge-big gray1">SSV</span>| Smáskipavélavörður <750 kW og <12 m  | <span class="badge gray">Námskeið</span>|
 |<span class="badge-big gray1">VV</span>| Vélavörður | <span class="badge gray">A eða námskeið</span> |
 |<span class="badge-big gray1">VVY1</span>| Yfirvélstjóri <750 kW og <24m | <span class="badge gray">A eða námskeið</span> | 

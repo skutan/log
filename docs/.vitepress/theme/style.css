@@ -26,11 +26,11 @@
   --vp-custom-block-warning-border: none;
   --vp-custom-block-warning-bg: #faefcb;
 
-  --s-blue: #1058b5;
+  --s-blue: #3269b1;
   --s-gray: #f1f1f1;
   --bg-gray: #f4f4f4;
   --s-yellow: #FFBC3C;
-  --s-yellow-l: #f9d48e;
+  --s-yellow-l: #f9e6c4;
   --s-green: #3BBA8E;
   --s-red: #D8415E;
   --s-purple: #724698;
@@ -193,6 +193,8 @@ figcaption {
 .custom-block.details p {
   line-height: 2rem;
   padding: 0.6rem;
+    text-align: justify;
+
 }
 
 .custom-block.details:hover {
@@ -220,17 +222,17 @@ figcaption {
 
 .custom-block.info {
   background-color: var(--s-gray) !important; 
-  padding: 1.5rem !important;
-  border-left: 0px solid var(--sam-green);
+  padding: 1rem !important;
+  margin-bottom: 2rem;
+  border-left: 0px solid var(--s-yellow-l);
   border-top: 0px;
   border-right: 0px solid #3499fe;
   border-bottom: 0px solid #3499fe;
-  /* line-height: 20px !important; */
   /* box-shadow: 0px 10px 1px rgba(0,0,0,0.05) !important; */
 }
 .custom-block.info p {
   font-size: 1rem;
-  line-height: 2rem;
+  line-height: 1.6667rem;
   /* padding: 1rem; */
 }
 
@@ -293,16 +295,17 @@ h1 {
   background-color: var(--s-green);
 }
 .badge-big {
-  width: 200px !important;
+  /* width: 200px !important; */
   font-size: 1.111rem;
   font-weight: 700;
-  padding: 4px 10px;
+  padding: 10px 10px;
+  margin: 3rem -0.5rem;
   border-radius: 4px;
 }
 .badge {
   font-weight: 700;
-  padding: 4px 10px;
-  border-radius: 6px;
+  padding: 6px 20px;
+  border-radius: 3px;
 }
 .purple {
   background-color: var(--s-purple);
@@ -322,6 +325,7 @@ h1 {
 .ml-3 {
   margin-left: 10px;
 }
+
 /* .mb-3 {
   padding-bottom: -200px !important;
 } */
@@ -361,7 +365,7 @@ h1 {
 }
 
 .vp-doc td {
-  padding: 12px 6px;
+  padding: 12px 0px;
 }
 
 h1:after {
@@ -412,5 +416,32 @@ img {
 
 
 .icon-small {
-  width: 40px;
+  width: 30px;
+  margin: 0rem 2rem;
+}
+
+.DocSearch-Button-Placeholder::after {
+
+  content: 'Leit';
+  background: var(--s-gray) !important;
+  padding: 0 2rem;
+  color: var(--s-blue) !important;
+  margin-left: -4rem;
+}
+
+.custom-block-title {
+  font-size: 0.9rem !important;
+  font-family: 'Work Sans';
+  padding-bottom: 1rem !important;
+}
+
+.custom-block-title:has(badge-big) {
+  font-size: 4rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.custom-block-title:has(p) {
+  font-size: 0.3rem !important;
+  font-family: 'Work Sans';
+  padding-bottom: 1rem !important;
 }

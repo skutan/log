@@ -26,13 +26,12 @@ hero:
 --- -->
 
 
-# Algengar spurningar
+# Spurt og svarað
 
 
 ## Lögskráningar 
 
 ::: details Ég fæ villuboð þegar ég skrái mig inn með ísland.is
-Sannreyndu að þú sért að nota rétt `auðkenni`. 
 Ef ekki tekst að skrá sig með rafrænum skilríkjum sendið þá [fyrirspurn hér](https://www.samgongustofa.is/samband/).
 :::
 
@@ -61,16 +60,4 @@ Allir í áhöfn hafi lokið a.m.k. smábátanámskeiði hjá **Slysavarnaskóla
 Í einstaka tilvikum eru mönnum veittar undanþágur til að gegna stöðu á skipi þrátt fyrir að tilskilin réttindi vanti.
 
 [Umsókn um undanþágu](https://eydublod.samgongustofa.is/27635894850265002716)
-:::
-
-
-## Skipaskrá 
-
-::: details Get ekki skráð mig inn
-Sannreyndu að þú sért að nota rétt
-:::
-
-
-::: details Hvar sæki ég um aðgang að kerfinu?
-Lorem ipsum
 :::
