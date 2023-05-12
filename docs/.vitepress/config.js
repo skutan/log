@@ -26,10 +26,8 @@ export default ({
       // { text: 'Skip', link: '/skirteini' },
       { text: 'Lögskráningar', 
         items: [
-          { text: 'Almennt', link: '/logskraning' },
-          { text: 'Fiskiskip og önnur skip <12m', link: '/logskraning/fiski-undir12.md' },
-          { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' },
-          { text: 'Farþegaskip', link: '/logskraning' }
+          { text: 'Almennt', link: '/logskraning/fiski-u12' },
+          { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' }
         ]
        }
       ,
@@ -42,9 +40,9 @@ export default ({
         text: 'Almennt',
         collapsed: true,
         items: [
-          { text: 'Innskráning', link: '/almennt/almennt'},
+          { text: 'Innskráning', link: '/logskraning/fiski-u12'},
           { text: 'Forsíða', link: '' },
-          { text: 'Val á skip', link: '/almennt/leit' }
+          { text: 'Val á skip', link: '/logskraning/log-ytri' }
         ]
       },
       {
