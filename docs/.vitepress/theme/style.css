@@ -447,3 +447,7 @@ img {
   font-family: 'Work Sans';
   padding-bottom: 1rem !important;
 }
+
+.VPSidebar {
+  background-color: white !important;
+}
