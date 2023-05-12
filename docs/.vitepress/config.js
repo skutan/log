@@ -26,7 +26,7 @@ export default ({
       // { text: 'Skip', link: '/skirteini' },
       { text: 'Lögskráningar', 
         items: [
-          { text: 'Almennt', link: '/logskraning/fiski-u12' },
+          { text: 'Almennt', link: '/almennt' },
           { text: 'Réttindaflokkar', link: '/flokkar-fiski' },
           { text: 'Forsendur lögskráninga', link: '/flokkar-fiski' },
           { text: 'Mönnunarreglur', link: '/monnun-fiski-u12' }

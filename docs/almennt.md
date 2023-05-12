@@ -4,6 +4,13 @@
 
 [Upplýsingasíða um nýja lögskráningakerfið](https://www.samgongustofa.is/skutan)
 
+::: details Kennslumyndband
+<iframe width="100%" height="380" src="https://www.youtube.com/embed/rpryUT-Ijlg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"
+        mozallowfullscreen="mozallowfullscreen" 
+        msallowfullscreen="msallowfullscreen" 
+        oallowfullscreen="oallowfullscreen" 
+        webkitallowfullscreen="webkitallowfullscreen"></iframe>
+:::
 <br/>
 
 [https://www.skutan.samgongustofa.is](https://www.skutantest.samgongustofa.is)
