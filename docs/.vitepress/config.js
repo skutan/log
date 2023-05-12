@@ -27,10 +27,11 @@ export default ({
       { text: 'Lögskráningar', 
         items: [
           { text: 'Almennt', link: '/logskraning/fiski-u12' },
-          { text: 'Mönnunarreglur', link: '/rettindaflokkar-fiski' }
+          { text: 'Lög og reglur', link: '/logskraning/log-reglur' },
+          { text: 'Mönnunarreglur', link: '/flokkar-fiski' }
         ]
-       }
-      ,
+       },
+       { text: 'Lög og reglur', link: '/logskraning/log-reglur' },
       // { text: 'Vefþjónustur', link: '/markdown-examples' },
       { text: 'Spurt & svarað', link: '/faq' },
       
@@ -42,7 +43,10 @@ export default ({
         items: [
           { text: 'Innskráning', link: '/logskraning/log-ytri'},
           { text: 'Val á skip', link: '/logskraning/log-ytri' },
-          { text: 'Lögskráningarsíða', link: '/logskraning/log-reglur' },
+          { text: 'Lögskráningarsíða skips', link: '/almennt/logskraning' },
+          { text: 'Lögskráning einstaklings', link: '/almennt/logskraning' },
+          
+          // { text: 'Lög og reglur', link: '/logskraning/log-reglur' },
         ]
       },
       {

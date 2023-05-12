@@ -33,7 +33,7 @@
   --s-yellow-l: #f9d48e;
   --s-green: #3BBA8E;
   --s-red: #D8415E;
-  --s-purple: #9c5dd2;
+  --s-purple: #724698;
 
   --sam-blue: #242366;
   --sam-pink: #F38396;
@@ -202,7 +202,13 @@ figcaption {
 
 
 }
-
+.custom-block.tip {
+  background-color: var(--s-gray) !important; 
+  font-size: 1rem;
+  padding: 1rem !important;
+  border-left: 5px solid var(--sam-green);
+  /* line-height: 40px !important; */
+}
 
 .custom-block.details summary {
   color: var(--s-blue) !important;
@@ -342,19 +348,20 @@ h1 {
   font-weight: 400;
   margin: 10px 0;
   overflow-x: auto;
-
 }
 .vp-doc  th, tr, td {
   border: 0px !important;
   border-collapse: collapse;
+  font-size: 1rem !important;
 }
 .vp-doc th {
   background-color: var(--s-blue2);
   /* color: white; */
   border-bottom: 2px solid black !important;
 }
-.vp-doc tr, td {
-  /* background-color: white; */
+
+.vp-doc td {
+  padding: 12px 6px;
 }
 
 h1:after {

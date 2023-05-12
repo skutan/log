@@ -1,13 +1,13 @@
 # Réttindaflokkar í skipstjórn og vélstjórn á fiskiskipum, varðskipum og öðrum skipum
 
-<span class="badge-big yellow">fiskiskipum</span>
-<span class="badge-big purple ml-3">varðskipum</span>
-<span class="badge-big gray ml-3">öðrum skipum</span>
+<span class="badge-big yellow">Fiskiskip</span>
+<span class="badge-big purple ml-3">Varðskip</span>
+<span class="badge-big green ml-3">Önnur skip</span>
 
 
-## SKIPSTJÓRN
+## Skipstjórn
 
-| Réttindaflokkur    |      |      |
+|     |      |      |
 |:-----------|:-----------|:-----------|
 |<span class="badge-big gray1">SS</span>| Skipstjóri og stýrimaður <12 m <span class="font-red">*</span> |  |
 |<span class="badge-big gray1">SS15</span>| Skipstjóri og stýrimaður <15 m <span class="font-red">*</span> | <span class="badge gray">Námskeið</span> |
@@ -22,14 +22,13 @@
 |<span class="badge-big gray1">DA</span>| Yfirstýrimaður á varðskipi | <span class="badge gray">D</span>  |
 |<span class="badge-big gray1">EA</span>| Skipherra á varðskipi | <span class="badge gray">E</span> |
 
-<span class="ml-3 font-red">*</span> Á grundvelli námskeiðs sem haldin voru á árunum 2008-2020
+<small><span class="ml-3 font-red">*</span> Á grundvelli námskeiðs sem haldin voru á árunum 2008-2020</small><br/>
+<small><span class="ml-3 font-red">**</span> Þeir sem eru með 30 brl. atvinnuskírteini falla hér undir</small>
 
-<span class="ml-3 font-red">**</span> Þeir sem eru með 30 brl. atvinnuskírteini falla hér undir
 
+## Vélstjórn
 
-## VÉLSTJÓRN
-
-|  Réttindaflokkur   |      | |
+|     |      | |
 |:-----------|:-----------|:-----------|
 |<span class="badge-big gray1">SSV</span>| Smáskipavélavörður <750 kW og <12 m  | <span class="badge gray">Námskeið</span>|
 |<span class="badge-big gray1">VV</span>| Vélavörður | <span class="badge gray">A eða námskeið</span> |

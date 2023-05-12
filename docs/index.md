@@ -6,19 +6,22 @@ hero:
   name: "Skútan"
   text: "Lögskráningar sjómanna"
   tagline: 
-  # image:
-  #   src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
-  #   alt: Skútan
-
-    # - theme: alt
-    #   text: Lögskráning sjómanna
-    #   link: /logskraning
-    # - theme: alt
-    #   text: Mönnunarreglur
-    #   link: /logskraning/monnun
-    # - theme: alt
-    #   text: Spurt og svarað
-    #   link: /faq
+  image:
+    src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
+    alt: Skútan
+  actions:
+    - theme: alt
+      text: Lögskráningar 
+      link: /almennt
+    - theme: alt
+      text: Flokkar atvinnuréttinda
+      link: /flokkar-fiski
+    - theme: alt
+      text: Forsendur lögskráningar
+      link: /forsendur-onnur-skip
+    - theme: alt
+      text: Spurt og svarað
+      link: /faq
 
 
 features:
