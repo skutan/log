@@ -27,7 +27,7 @@ export default ({
       { text: 'Lögskráningar', 
         items: [
           { text: 'Almennt', link: '/logskraning/fiski-u12' },
-          { text: 'Mönnunarreglur', link: '/logskraning/log-ytri' }
+          { text: 'Mönnunarreglur', link: '/rettindaflokkar-fiski' }
         ]
        }
       ,
@@ -38,26 +38,27 @@ export default ({
     sidebar: [
       {
         text: 'Almennt',
-        collapsed: true,
+        collapsed: false,
         items: [
-          { text: 'Innskráning', link: '/logskraning/fiski-u12'},
-          { text: 'Forsíða', link: '' },
-          { text: 'Val á skip', link: '/logskraning/log-ytri' }
+          { text: 'Innskráning', link: '/logskraning/log-ytri'},
+          { text: 'Val á skip', link: '/logskraning/log-ytri' },
+          { text: 'Lögskráningarsíða', link: '/logskraning/log-reglur' },
         ]
       },
       {
-        text: 'Flokkar atvinnuréttinda',
-        collapsed: true,
+        text: 'Flokkar atvinnuréttinda',
+        collapsed: false,
         items: [
-          { text: 'Skráning', link: '/skraning/skraning'},
-          { text: 'Kennimerki', link: '/skraning/skraning#kennimerki' },
+          { text: 'Fiskiskip og önnur skip', link: '/flokkar-fiski'},
+          { text: 'Farþegaskip', link: '/flokkar-fartega' },
         ]
       },
       {
         text: 'Forsendur lögskráningar',
         collapsed: false,
         items: [
-          { text: 'Regluvörðurinn', link: '/forsendur/fartega'},
+          { text: 'Fiskiskip og önnur skip', link: '/forsendur-onnur-skip'},
+          { text: 'Farþegabátar og farþegaskip', link: '/forsendur-fartegaskip'}
         ]
       },
       {

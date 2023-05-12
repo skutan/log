@@ -79,7 +79,7 @@ Smellt er á <Badge text="+" style="margin-top: -2px; background: white; color: 
 Ef ein af eftirtöldum ábendingum birtast er **EKKI** hægt að lögskrá viðkomandi. Hafa verður samband við lögskráningardeild Samgöngustofu, eða ef 
 
 <br/>
-<div style="padding: 5px; border-radius: 10px; width:100%; background: rgb(255, 243, 205); color: rgb(133, 100, 4);">
+<div style="padding: 20px; border-radius: 10px; width:100%; background: rgb(255, 243, 205); color: rgb(133, 100, 4);">
 <h5>Vinsamlegast athugið</h5>
 <ul>
 <li>Engin áhafnatrygging er í gildi fyrir þetta skip. Hafið samband við tryggingarfélag útgerðar.</li>
