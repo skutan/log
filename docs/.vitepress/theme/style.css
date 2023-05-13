@@ -437,18 +437,3 @@ img {
   font-family: 'Work Sans';
   padding-bottom: 1rem !important;
 }
-
-.custom-block-title:has(badge-big) {
-  font-size: 4rem !important;
-  margin-bottom: 2rem !important;
-}
-
-.custom-block-title:has(p) {
-  font-size: 0.3rem !important;
-  font-family: 'Work Sans';
-  padding-bottom: 1rem !important;
-}
-
-/* .VPSidebar {
-  background-color: white !important;
-} */
