@@ -14,9 +14,8 @@ Lögskráningarkerfi sjómanna, sbr. 17. tölul. 2. gr.
 
 ## Lögskráning sjómanna
 
-<br/>
 
-**13. gr. *Lögskráningarkerfi sjómanna***
+**13. gr.** *Lögskráningarkerfi sjómanna*
 
 Samgöngustofa annast rekstur og viðhald lögskráningarkerfis sjómanna.
 
@@ -26,7 +25,7 @@ Upplýsingar úr lögskráningarkerfi sjómanna skulu aðeins veittar þeim sem 
 
 <br/>
 
-**14. gr.  *Lögskráningarskylda***
+**14. gr.** *Lögskráningarskylda*
 
 Óheimilt er skipstjóra að halda úr höfn nema allir skipverjar hafi verið lögskráðir á skipið, séu með gilt atvinnuskírteini eða undanþágu í þá stöðu sem þeir eru lögskráðir í, skipið sé með gilt haffærisskírteini, skipið sé mannað miðað við stærð þess, vélarafl, farsvið og útivist, staðfestingu á að skipverji hafi hlotið öryggisfræðslu í Slysavarnaskóla sjómanna eða á annan hátt og með gilda áhafnartryggingu fyrir alla um borð. Þetta gildir þó ekki í neyðartilvikum.
 
@@ -37,14 +36,15 @@ Lögskrá skal farþega eða aðra um borð í skipum öðrum en farþegaskipum 
 
 <br/>
 
-**18. gr.  *Frávik frá lágmarksmönnun***
+**18. gr.**  *Frávik frá lágmarksmönnun*
 
 Samgöngustofa hefur heimild til að ákveða frávik frá ákvæðum 16. og 17. gr. um lágmarksfjölda skipstjórnar- og vélstjórnarmanna á fiskiskipum, varðskipum og öðrum skipum eftir því sem tilefni gefst til, svo sem vegna tæknibúnaðar, gerðar og/eða verkefnis skips þar sem meðal annars skal taka tillit til vinnuálags sem breytingin kann að hafa í för með sér.
+
 Samgöngustofa skráir ákvarðanir sínar í **lögskráningarkerfi sjómanna.**
 
 <br/>
 
-**30. gr. *Eftirlit***
+**30. gr.** *Eftirlit*
 
 Samgöngustofa og Landhelgisgæsla Íslands hafa eftirlit með að lögum þessum og reglugerðum settum á grundvelli þeirra sé fylgt.
 
@@ -54,7 +54,7 @@ Starfsmönnum Landhelgisgæslu Íslands er heimilt að fara um borð í íslensk
 
 <br/>
 
-**31. gr.  *Þjónustugjöld***
+**31. gr.**  *Þjónustugjöld*
 
 Samgöngustofu er heimilt að innheimta þjónustugjöld vegna laga þessara í samræmi við 13. gr. laga um Samgöngustofu, stjórnsýslustofnun samgöngumála, nr. 119/2012. Þjónustugjöld Samgöngustofu eru aðfararhæf án undangengins dóms eða sáttar, sbr. 15. gr. sömu laga.
 
@@ -62,7 +62,11 @@ Samgöngustofu er heimilt að innheimta **gjald fyrir aðgang að lögskráninga
 
 Jafnframt er Samgöngustofu heimilt að innheimta gjald fyrir útgáfu skírteina og sjóferðabóka, áritun erlendra skírteina, veitingu undanþága og útgáfu öryggismönnunarskírteina samkvæmt lögum þessum. Skulu þau gjöld standa undir kostnaði Samgöngustofu sem af þjónustu hlýst. Jafnframt skal greiða gjald vegna kostnaðar sem til fellur vegna próftöku og námskeiða samkvæmt lögum þessum. Gjöld skulu ákveðin í gjaldskrá stofnunarinnar.
 
-[Gjaldskrá Samgöngustofu ](https://www.samgongustofa.is/um/gjaldskrar/)
+
+
+## Gjaldskrá Samgöngustofu
+
+[Gjaldskrá](https://www.samgongustofa.is/um/gjaldskrar/)
 
 <br/>
 
@@ -76,7 +80,7 @@ Landhelgisgæsla Íslands getur lagt á stjórnvaldssektir á einstakling eða l
 
 ## Reglugerðarheimild
 
-**37. gr.  *Reglugerð***
+**37. gr.**  *Reglugerð*
 
 Ráðherra skal setja í reglugerð nánari ákvæði um:
 8. Nánari framkvæmd lögskráningar og skilyrði hennar, hvernig standa skuli að rafrænni lögskráningu í gegnum lögskráningarkerfið og notkun rafrænna skilríkja í þeim efnum, frest til þess að ljúka öryggisfræðslunámskeiði sjómanna til að fást lögskráður, hvernig standa skuli að aðgangi að gögnum og upplýsingum úr lögskráningarkerfinu til þeirra sem hafa lögvarða hagsmuni og um eftirlit með framkvæmd lögskráningar skv. 13. og 14. gr. Í reglugerð má veita undanþágu frá ákvæðum um lögskráningarskyldu áhafna tiltekinna skipa, svo sem til hafnsögubáta, dráttarbáta, björgunarskipa og frístundafiskiskipa.

@@ -1,8 +1,8 @@
 # Réttindaflokkar í skipstjórn og vélstjórn á fiskiskipum, varðskipum og öðrum skipum
 
-<span class="badge-big yellow">Fiskiskip</span>
-<span class="badge-big purple ml-3">Varðskip</span>
-<span class="badge-big green ml-3">Önnur skip</span>
+<span class="badge yellow">Fiskiskip</span>
+<span class="badge purple ml-3">Varðskip</span>
+<span class="badge green ml-3">Önnur skip</span>
 
 
 ## Skipstjórn
@@ -14,7 +14,8 @@
 |<span class="badge-big gray1">AB</span>| Undirstýrimaður <45 m| <span class="badge gray">A</span>|
 |<span class="badge-big gray1">AC</span>| Stýrimaður <24 m | <span class="badge gray">A</span>  | 
 |<span class="badge-big gray1">AD</span>| Skipstjóri <24 m | <span class="badge gray">A</span>  |
-|<span class="badge-big gray1">BB</span>| Undirstýrimaður ótakmarkað| <span class="badge gray">B</span>  | 
+|<span class="badge-big gray1">BB</span>| Undirstýrimaður ótakmarkað | <span class="badge gray">B</span>  | 
+|<span class="badge-big gray1">BA</span>| Yfirstýrimaður <45 m| <span class="badge gray">B</span>  | 
 |<span class="badge-big gray1">BC</span>| Skipstjóri <45 m | <span class="badge gray">B</span>  |
 |<span class="badge-big gray1">CA</span>| Yfirstýrimaður ótakmarkað | <span class="badge gray">C</span>  |
 |<span class="badge-big gray1">CB</span>| Skipstjóri ótakmarkað| <span class="badge gray">C</span>  |

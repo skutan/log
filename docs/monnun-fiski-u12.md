@@ -1,6 +1,6 @@
 # Mönnunarreglur 
 
-## FISKISKIP OG ÖNNUR SKIP
+## Fiskiskip og önnur skip
 
 <span class="badge blue">Undir 12 m </span>
 <span class="badge yellow ml-3">250-750 kW</span>

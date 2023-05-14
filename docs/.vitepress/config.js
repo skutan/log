@@ -42,7 +42,7 @@ export default ({
         text: 'Almennt',
         collapsed: false,
         items: [
-          { text: 'Innskráning', link: '/logskraning/log-ytri'},
+          { text: 'Innskráning', link: '/almennt'},
           { text: 'Val á skip', link: '/logskraning/log-ytri' },
           { text: 'Lögskráningarsíða skips', link: '/almennt/logskraning' },
           { text: 'Lögskráning einstaklings', link: '/almennt/logskraning' },

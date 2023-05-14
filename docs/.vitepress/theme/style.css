@@ -208,7 +208,7 @@ figcaption {
   background-color: var(--s-gray) !important; 
   font-size: 1rem;
   padding: 1rem !important;
-  border-left: 5px solid var(--sam-green);
+  border-left: 0px solid var(--sam-green);
   /* line-height: 40px !important; */
 }
 
