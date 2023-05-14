@@ -33,7 +33,7 @@
   --s-yellow-l: #f9e6c4;
   --s-green: #3BBA8E;
   --s-red: #D8415E;
-  --s-purple: #724698;
+  --s-purple: #482397;
 
   --sam-blue: #242366;
   --sam-pink: #F38396;
@@ -71,7 +71,7 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #3499fe 70%,
+    #9ec6ee 70%,
     #95dcf3
   );
 
@@ -156,7 +156,7 @@
 
 body {
   /* background-image: url("bg.png") !important; */
-  /* background-color: var(--s-gray); */
+  /* background-color: var(--s-dark); */
   /* font-family: 'Merriweather'; */
   /* font-family: 'eina'; */
   font-family: 'Inter';
@@ -164,7 +164,7 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-
+  /* text-align: justify; */
 }
 
 figcaption {
@@ -209,7 +209,7 @@ figcaption {
   font-size: 1rem;
   padding: 1rem !important;
   border-left: 0px solid var(--sam-green);
-  /* line-height: 40px !important; */
+  line-height: 1.6667rem !important;
 }
 
 .custom-block.details summary {
@@ -222,18 +222,25 @@ figcaption {
 
 .custom-block.info {
   border: 1px solid var(--s-gray) !important; 
-  background-color: transparent;
-  padding: 1rem !important;
+  /* background-color: transparent; */
+  background-color: var(--s-white); 
+  /* color: white; */
+  padding: 2rem !important;
   margin-bottom: 2rem;
-  border-left: 10px solid var(--s-yellow-l) !important;
+  border-left: 20px solid var(--s-blue) !important;
   /* border-top: 0px;
   border-right: 0px solid #3499fe;
   border-bottom: 0px solid #3499fe; */
-  /* box-shadow: 0px 10px 1px rgba(0,0,0,0.05) !important; */
+  box-shadow: 0px 10px 40px rgba(0,0,0,0.05) !important;
 }
 .custom-block.info p {
   font-size: 1rem;
-  line-height: 1.6667rem;
+  line-height: 1.3667rem;
+  /* padding: 1rem; */
+}
+.ccustom-block-title {
+  font-size: 2rem !important;
+  line-height: 1.3667rem;
   /* padding: 1rem; */
 }
 
@@ -247,9 +254,9 @@ a:hover {
 }
 
 h1 {
-  /* font-family: 'Merriweather'; */
-  font-family: 'Work Sans', sans-serif;
-  font-weight: 700 !important;
+  font-family: 'Merriweather';
+  /* font-family: 'Work Sans', sans-serif; */
+  font-weight: 400 !important;
 }
 
 .alt {
@@ -300,7 +307,7 @@ h1 {
 }
 .badge {
   font-weight: 700;
-  padding: 6px 20px;
+  padding: 6px 10px;
   border-radius: 3px;
 }
 .purple {
@@ -370,7 +377,7 @@ h1:after {
   margin-bottom: 20px;
   display: block;
   content: '';
-  border: 2px solid var(--s-gray);
+  border: 0px solid var(--s-gray);
 }
 h1 {
   letter-spacing: 1px !important;

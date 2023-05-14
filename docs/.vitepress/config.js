@@ -11,8 +11,8 @@ import { defineConfig } from 'vitepress'
 
 export default ({
   // plugins: [SearchPlugin(options)],
-  base: '/log/',
-  title: 'Hjálpin',
+  base: '/',
+  title: 'Skútan',
   description: "Skútan - lögskráningar",
   themeConfig: {
     search: {
@@ -70,8 +70,10 @@ export default ({
         text: 'Mönnunarreglur',
         collapsed: false,
         items: [
-          { text: 'Fiskiskip og önnur skip', link: '/logskraning/log-ytri' },
-
+          { text: 'Fiskiskip og önnur skip <12m', link: '/monnun-fiski-u12' },
+          { text: 'Fiskiskip og önnur skip <15m, <750kW', link: '/monnun/fiski-u15' },
+          { text: 'Fiskiskip og önnur skip >15m', link: '/logskraning/monnun-y15' },
+          { text: 'Farþegabátar, farþega- og flutningaskip', link: '/logskraning/monnun-fartega' },
         ]
       },
       // {

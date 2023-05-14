@@ -10,7 +10,7 @@ hero:
     alt: Skútan
   actions:
     - theme: alt
-      text: Lögskráningar 
+      text: Lögskrá einstakling
       link: /almennt
     - theme: alt
       text: Flokkar atvinnuréttinda
@@ -18,6 +18,9 @@ hero:
     - theme: alt
       text: Forsendur lögskráningar
       link: /forsendur-onnur-skip
+    - theme: alt
+      text: Mönnunarreglur
+      link: /monnun-fiski-u12
     - theme: alt
       text: Spurt og svarað
       link: /faq
@@ -36,8 +39,8 @@ features:
   #   title: Another cool feature
   #   details: Lorem ipsum...
   
-  - title: Skútan
-    details: er nýtt kerfi fyrir skipaskráningar og lögskráningar áhafna
+  # - title: Skútan
+  #   details: er nýtt kerfi fyrir skipaskráningar og lögskráningar áhafna
 
   - title: Skipaskrá
     details: Þann 15. maí 2023 verður nýtt kerfi fyrir skipaskrá- og lögskráningar, Skútan, gangsett hjá Samgöngustofu. Vegna þessa verður lokað fyrir skráningar frá kl 12, föstudaginn 12. maí til kl 01:00 mánudaginn 15. maí.
