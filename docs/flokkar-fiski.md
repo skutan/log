@@ -2,13 +2,13 @@
 
 <span class="badge orange">Fiskiskip</span>
 <span class="badge purple ml-3">Varðskip</span>
-<span class="badge red ml-3">Önnur skip</span>
+<span class="badge blue ml-3">Önnur skip</span>
 
-
+<br/>
 
 
 <figure>
-  <img src='/images/cover-flag.jpg'>
+  <img src='/images/log2.jpg'>
 </figure> 
 
 

@@ -1,20 +1,18 @@
-## Skútan
-
-#  Nýtt Lögskráningarkerfi sjómanna 
 
 <figure>
-  <img src='/images/log2.jpg'>
+  <img src='/images/s-logo.svg' class="s-logo">
 </figure> 
 
+# Skútan
 
-<br/>
-<!-- ## Upplýsingasíða um nýja lögskráningakerfið -->
+<!-- <div class="bg-dark">
+</div> -->
 
-[https://www.skutan.samgongustofa.is](https://skutan.samgongustofa.is/loginForm)
 
-[Upplýsingar um nýja lögskráningakerfið - (pdf)](https://www.samgongustofa.is/skutan)
+[https://skutan.samgongustofa.is](https://skutan.samgongustofa.is/loginForm)
 
-<br/>
+##  Nýtt Lögskráningarkerfi sjómanna 
+
 
 ::: details Kennslumyndband
 
@@ -24,8 +22,16 @@
         oallowfullscreen="oallowfullscreen" 
         webkitallowfullscreen="webkitallowfullscreen"></iframe>
 :::
-<br/>
+<figure>
+  <img src='/images/log1.jpg'>
+</figure> 
 
+
+<!-- ## Upplýsingasíða um nýja lögskráningakerfið -->
+
+[Nánar um nýja lögskráningakerfið - útprentun](https://www.samgongustofa.is/skutan)
+<br/>
+<br/>
 
 
 ::: info Athygli útgerða og lögskráningaraðila

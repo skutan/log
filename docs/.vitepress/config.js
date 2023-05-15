@@ -11,7 +11,7 @@ import { defineConfig } from 'vitepress'
 
 export default ({
   // plugins: [SearchPlugin(options)],
-  base: '/',
+  base: '/log/',
   title: 'Skútan',
   description: "Skútan - lögskráningar",
   themeConfig: {

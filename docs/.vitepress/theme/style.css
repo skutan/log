@@ -34,7 +34,7 @@
   --s-yellow-l: #f9e6c4;
   --s-green: #3BBA8E;
   --s-red: #f02a52;
-  --s-purple: #482397;
+  --s-purple: #7351bc;
 
   --sam-blue: #242366;
   --sam-pink: #F38396;
@@ -257,7 +257,7 @@ a:hover {
 }
 
 h1 {
-  margin-top: 2rem;
+  margin-top: -1rem;
   font-family: 'Merriweather';
   /* font-family: 'Work Sans', sans-serif; */
   font-weight: 400 !important;
@@ -302,6 +302,10 @@ h1 {
 
 .bg-green {
   background-color: var(--s-green);
+}
+.bg-dark {
+  background-color: var(--s-dark);
+
 }
 .badge-big {
   /* width: 200px !important; */
@@ -348,7 +352,7 @@ h1 {
 }
 .orange {
   background-color: var(--s-orange);
-  color: white;
+  color: var(--s-dark);
 }
 .yellow-l {
   background-color: var(--s-yellow-l);
@@ -455,3 +459,8 @@ img {
   font-family: 'Work Sans';
   padding-bottom: 1rem !important;
 } */
+
+.s-logo {
+  width: 80px;
+  /* padding: 1rem; */
+}
