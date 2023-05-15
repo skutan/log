@@ -3,14 +3,14 @@ layout: home
 
 hero:
   name: "Skútan"
-  text: "Lögskráningar á sjó"
+  text: "Lögskráningar sjómanna"
   tagline: 
   image:
     src: https://www.samgongustofa.is/skin/basic10k/i/sitelogo.svg
     alt: Skútan
   actions:
     - theme: alt
-      text: Lögskrá einstakling
+      text: Lögskráningar
       link: /almennt
     - theme: alt
       text: Flokkar atvinnuréttinda
@@ -29,7 +29,7 @@ hero:
 features:
   # - icon:
   #     dark: /dark-feature-icon.svg
-  #     light: /s-logo2.svg
+  #     light: /images/cover-flag.jpg
   #   title: Another cool feature
   #   details: Lorem ipsum...
 

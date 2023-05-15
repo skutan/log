@@ -1,11 +1,21 @@
-# Réttindaflokkar í skipstjórn og vélstjórn á fiskiskipum, varðskipum og öðrum skipum
+# Flokkar atvinnuréttinda
 
-<span class="badge yellow">Fiskiskip</span>
+<span class="badge orange">Fiskiskip</span>
 <span class="badge purple ml-3">Varðskip</span>
-<span class="badge green ml-3">Önnur skip</span>
+<span class="badge red ml-3">Önnur skip</span>
+
+
+
+
+<figure>
+  <img src='/images/cover-flag.jpg'>
+</figure> 
+
 
 
 ## Skipstjórn
+
+
 
 |     |      |      |
 |:-----------|:-----------|-----------:|

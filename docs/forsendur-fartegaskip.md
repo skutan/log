@@ -8,9 +8,8 @@
 
 Til þess að lögskráning einstaklings fari í gegn þurfa tiltekin skilyrði að vera uppfylllt. Ef ekki, mun kerfið birta eitt af eftirfarandi skilaboðum:
 
-<br/>
 
-::: tip Ef skip hefur ekki gilt haffærisskírteini:
+::: info Ef reynt er að lögskrá einstakling á farþegabát eða farþegaskip, sem ekki hefur gilt haffæri:
 
 <span class="badge yellow-l">Haffærisskírteini ekki í gildi</span>
 
@@ -25,7 +24,7 @@ Sækja þarf um útgáfu haffærisskírteinis, eftir að skoðanir hafa farið f
 :::
 
 
-::: tip Ef skip hefur ekki gilda áhafnartryggingu:
+::: info Ef skip hefur ekki gilda áhafnartryggingu:
 <span class="badge yellow-l">Engin áhafnatrygging er í gildi fyrir þetta skip</span>
 
 <br/>
@@ -35,19 +34,24 @@ Hafa þarf samband við tryggingarfélag útgerðar.
 
 
 
-::: tip Ef lögskrá á fleiri um borð en áhafnatrygging miðar við:
+::: info Ef reynt er að lögskrá einstakling á farþegabát eða farþegaskip, sem ekki hefur farþegaleyfi eða það útrunnið, birtist eftirfarandi skilaboð:
 
-<span class="badge yellow-l">Ekki áhafnatrygging fyrir fleiri á viðkomandi skipi</span>
+
+<span class="badge yellow-l">Farþegaleyfi ógilt</span>
 
 
 <br/>
 
-Hafa þarf samband við tryggingarfélag útgerðar.
+Umsókn um leyfi/endurnýjun á leyfi til farþegaflutninga
+
+[Umsókn um útgáfu haffærisskírteinis](https://eydublod.samgongustofa.is/22635890828259260606
+)
+
 :::
 
 
 
-::: tip Ef lögskrá á einstakling í stöðu sem hann hefur ekki réttindi til að gegna:
+::: info Ef lögskrá á einstakling í stöðu sem hann hefur ekki réttindi til að gegna:
 
 <span class="badge yellow-l">Einstakling vantar réttindi til að gegna þessari stöðu á þessu skipi
 </span>
@@ -62,7 +66,7 @@ Sækja þarf um atvinnuréttindi eða endurnýja réttindi sem eru útrunnin.
 :::
 
 
-::: tip Ef lögskrá á einstakling sem ekki hefur lokið öryggisfræðslu smábáta (T1) (<12m eða <15m):
+::: info Ef lögskrá á einstakling sem ekki hefur lokið öryggisfræðslu smábáta (T1) (<12m eða <15m):
 
 <span class="badge yellow-l">Hefur ekki lokið öryggisfræðslu smábáta</span>
 
@@ -75,7 +79,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 :::
 
 
-::: tip Ef lögskrá á einstakling sem ekki hefur endurnýjað öryggisfræðslu smábáta (T2) (<12m eða <15m):
+::: info Ef lögskrá á einstakling sem ekki hefur endurnýjað öryggisfræðslu smábáta (T2) (<12m eða <15m):
 
 <span class="badge yellow-l">Hefur ekki lokið endurmenntun á öryggisfræðslu smábáta</span>
 
@@ -89,7 +93,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 
 
 
-::: tip Ef lögskrá á einstakling sem ekki hefur lokið grunnöryggisfræðslu (ST) (>15m):
+::: info Ef lögskrá á einstakling sem ekki hefur lokið grunnöryggisfræðslu (ST) (>15m):
 
 <span class="badge yellow-l">Hefur ekki lokið grunnöryggisfræðslu sjómanna</span>
 
@@ -102,7 +106,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 :::
 
 
-::: tip Ef lögskrá á einstakling sem ekki hefur endurnýjað grunnöryggisfræðslu (EM) (>15m):
+::: info Ef lögskrá á einstakling sem ekki hefur endurnýjað grunnöryggisfræðslu (EM) (>15m):
 
 <span class="badge yellow-l">Hefur ekki lokið endurmenntun á grunnöryggisfræðslu sjómanna</span>
 
@@ -115,11 +119,33 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 :::
 
 
-::: tip Ef lögskrá á einstakling sem er lögskráður á annað skip:
 
-<span class="badge yellow-l">Einstaklingur er lögskráður á annað skip (xxxx) á gefinni dagsetningu lögskráningar</span>
-
+::: info Ef lögskrá á einstakling á farþegabát eða farþegaskip sem ekki hefur lokið grunnöryggisfræðslu (ST):
+<span class="badge yellow-l">Hefur ekki lokið grunnöryggisfræðslu sjómanna</span>
 <br/>
+<br/>
+Sækja þarf námskeiðið hjá Slysavarnaskóla sjómanna - [Umsókn um frest](https://eydublod.samgongustofa.is/26635894123012325331)
+:::
 
-Hafa þarf samband við útgerð skipsins sem einstaklingur er lögskráður á.
+
+
+
+::: info Ef lögskrá á einstakling á farþegabát eða farþegaskip sem ekki hefur endurnýjað grunnöryggisfræðslu (ST):
+<span class="badge yellow-l">Hefur ekki lokið endurmenntun á grunnöryggisfræðslu sjómanna</span>
+<br/>
+<br/>
+Sækja þarf námskeiðið hjá Slysavarnaskóla sjómanna - [Umsókn um frest](https://eydublod.samgongustofa.is/26635894123012325331)
+:::
+
+
+::: info Ef lögskrá á einstakling á farþegabát eða farþegaskip sem hefur ekki lokið náskeiði í hóp- og neyðarstjórnun farþega (HO/NE):
+
+<span class="badge yellow-l">Hefur ekki gilt námskeið í hóp- og neyðarstjórnun farþega</span>
+<br/>
+<br/>
+Ef einstaklingur hefur annaðhvort gilda öryggisfræðslu eða gilda hóp- og neyðarstjórnun er hægt að sækja um frest til Samgöngustofu. Að fenginni skráningu hjá 
+Slysavarnaskólanum (562 4884) er veittur frestur þar til næsta námskeið verður haldið.
+
+Sækja þarf námskeiðið hjá Slysavarnaskóla sjómanna - [Umsókn um frest](https://eydublod.samgongustofa.is/26635894123012325331)
+
 :::

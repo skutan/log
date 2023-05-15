@@ -31,15 +31,22 @@ hero:
 
 ## Lögskráningar 
 
+::: details Hvar sæki ég um aðgang að Skútunni til þess að geta lögskráð?
+Senda má fyrirspurnir um lögskráningu sjómanna og aðgang að lögskráningarhluta Skútunnar hér
+[logskraning@samgongustofa.is](mailto:logskraning@samgongustofa.is).
+:::
+
+::: details Ég get bara lögskráð á eitt skip, þarf að bæta við einu nýju skipi
+Ef ekki tekst að skrá sig með rafrænum skilríkjum sendið þá [fyrirspurn hér](https://www.samgongustofa.is/samband/).
+:::
+
+
 ::: details Ég fæ villuboð þegar ég skrái mig inn með ísland.is
 Ef ekki tekst að skrá sig með rafrænum skilríkjum sendið þá [fyrirspurn hér](https://www.samgongustofa.is/samband/).
 :::
 
 
-::: details Hvar sæki ég um aðgang að Skútunni til þess að geta lögskráð?
-Senda má fyrirspurnir um lögskráningu sjómanna og aðgang að lögskráningarhluta Skútunnar hér
-[logskraning@samgongustofa.is](mailto:logskraning@samgongustofa.is).
-:::
+
 
 ::: details Hvar sæki ég um frest fyrir öryggisfræðslu?
 [Umsókn um frest ](https://www.samgongustofa.is/siglingar/monnun-og-skraning/logskraningar/slysavarnarskoli-frestur/)

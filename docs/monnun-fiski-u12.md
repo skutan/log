@@ -130,9 +130,6 @@ Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavör�
 :::
 
 
-<br/>
-<br/>
-<br/>
 
 ## Merking tákna
 

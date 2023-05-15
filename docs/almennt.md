@@ -1,9 +1,20 @@
-# Almennar leiðbeiningar fyrir lögskráningaraðila
+## Skútan
 
+#  Nýtt Lögskráningarkerfi sjómanna 
+
+<figure>
+  <img src='/images/log2.jpg'>
+</figure> 
+
+
+<br/>
 <!-- ## Upplýsingasíða um nýja lögskráningakerfið -->
+
 [https://www.skutan.samgongustofa.is](https://skutan.samgongustofa.is/loginForm)
 
 [Upplýsingar um nýja lögskráningakerfið - (pdf)](https://www.samgongustofa.is/skutan)
+
+<br/>
 
 ::: details Kennslumyndband
 
@@ -46,7 +57,7 @@ Eftir innskráningu birtist listi yfir þau skip sem lögskráningaraðili hefur
 </figure> 
 
 ::: tip Ábending
-Ef einungis eitt skip er skráð á lögskráningaraðilann fer hann beint inn á lögskráningarsíðu skips.
+Ef notandi hefur einungis heimild til að lögskrá á eitt skip, opnast lögskráningarsíðu skips.
 :::
 
 

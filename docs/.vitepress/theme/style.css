@@ -21,7 +21,7 @@
   --vp-c-brand-lightest: #bcc0ff;
   --vp-c-brand-dark: #535bf2;
   --vp-c-brand-darker: #454ce1;
-  --vp-c-brand-dimm: rgba(100, 108, 255, 0.8);
+  --vp-c-brand-dimm: rgba(15, 17, 54, 0.4);
 
   --vp-custom-block-warning-border: none;
   --vp-custom-block-warning-bg: #faefcb;
@@ -29,10 +29,11 @@
   --s-blue: #3269b1;
   --s-gray: #f1f1f1;
   --bg-gray: #f4f4f4;
+  --s-orange: #F7A12F;
   --s-yellow: #FFBC3C;
   --s-yellow-l: #f9e6c4;
   --s-green: #3BBA8E;
-  --s-red: #D8415E;
+  --s-red: #f02a52;
   --s-purple: #482397;
 
   --sam-blue: #242366;
@@ -71,8 +72,8 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: -webkit-linear-gradient(
     120deg,
-    #9ec6ee 70%,
-    #95dcf3
+    #0981f9 70%,
+    #1c5264
   );
 
   /* --vp-home-hero-image-background-image: linear-gradient(
@@ -223,24 +224,26 @@ figcaption {
 .custom-block.info {
   border: 1px solid var(--s-gray) !important; 
   /* background-color: transparent; */
-  background-color: var(--s-white); 
+  background-color: var(--vp-custom-block-tip-bg); 
   /* color: white; */
-  padding: 2rem !important;
+  padding: 1.5rem !important;
   margin-bottom: 2rem;
-  border-left: 20px solid var(--s-blue) !important;
+  border-left: 14px solid var(--s-yellow-l) !important;
   /* border-top: 0px;
   border-right: 0px solid #3499fe;
   border-bottom: 0px solid #3499fe; */
-  box-shadow: 0px 10px 40px rgba(0,0,0,0.05) !important;
+  box-shadow: 4px 4px 0px rgba(0,0,0,0.05) !important;
 }
 .custom-block.info p {
   font-size: 1rem;
-  line-height: 1.3667rem;
+  line-height: 1.667rem;
   /* padding: 1rem; */
 }
-.ccustom-block-title {
-  font-size: 2rem !important;
+.custom-block.info .custom-block-title {
+  font-size: 1rem !important;
   line-height: 1.3667rem;
+  font-family: 'Merriweather';
+  margin-bottom: 2rem !important;
   /* padding: 1rem; */
 }
 
@@ -254,9 +257,12 @@ a:hover {
 }
 
 h1 {
+  margin-top: 2rem;
   font-family: 'Merriweather';
   /* font-family: 'Work Sans', sans-serif; */
   font-weight: 400 !important;
+  font-size: 2rem !important;
+  line-height: 3rem !important;
 }
 
 .alt {
@@ -338,6 +344,11 @@ h1 {
 }
 .yellow {
   background-color: var(--s-yellow);
+  color: var(--s-dark);
+}
+.orange {
+  background-color: var(--s-orange);
+  color: white;
 }
 .yellow-l {
   background-color: var(--s-yellow-l);
@@ -439,8 +450,8 @@ img {
   margin-left: -4rem;
 }
 
-.custom-block-title {
+/* .custom-block-title {
   font-size: 0.9rem !important;
   font-family: 'Work Sans';
   padding-bottom: 1rem !important;
-}
+} */
