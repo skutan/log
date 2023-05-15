@@ -26,9 +26,9 @@ export default ({
       // { text: 'Skip', link: '/skirteini' },
       { text: 'Lögskráningar', 
         items: [
-          { text: 'Almennt', link: '/almennt' },
+          { text: 'Almennt um kerfið', link: '/almennt' },
           { text: 'Réttindaflokkar', link: '/flokkar-fiski' },
-          { text: 'Forsendur lögskráninga', link: '/flokkar-fiski' },
+          { text: 'Forsendur lögskráninga', link: '/forsendur-onnur-skip' },
           { text: 'Mönnunarreglur', link: '/monnun-fiski-u12' }
         ]
        },
@@ -43,9 +43,10 @@ export default ({
         collapsed: false,
         items: [
           { text: 'Innskráning', link: '/almennt'},
-          { text: 'Val á skip', link: '/logskraning/log-ytri' },
-          { text: 'Lögskráningarsíða skips', link: '/almennt/logskraning' },
-          { text: 'Lögskráning einstaklings', link: '/almennt/logskraning' },
+          // { text: 'Listi skipa', link: '/almennt#val-a-skipi'},
+          // { text: 'Val á skip', link: '/logskraning/log-ytri' },
+          // { text: 'Lögskráningarsíða skips', link: '/almennt/logskraning' },
+          // { text: 'Lögskráning einstaklings', link: '/almennt/logskraning' },
           
           // { text: 'Lög og reglur', link: '/logskraning/log-reglur' },
         ]
@@ -71,9 +72,9 @@ export default ({
         collapsed: false,
         items: [
           { text: 'Fiskiskip og önnur skip <12m', link: '/monnun-fiski-u12' },
-          { text: 'Fiskiskip og önnur skip <15m, <750kW', link: '/monnun/fiski-u15' },
-          { text: 'Fiskiskip og önnur skip >15m', link: '/logskraning/monnun-y15' },
-          { text: 'Farþegabátar, farþega- og flutningaskip', link: '/logskraning/monnun-fartega' },
+          // { text: 'Fiskiskip og önnur skip <15m, <750kW', link: '/monnun/fiski-u15' },
+          // { text: 'Fiskiskip og önnur skip >15m', link: '/logskraning/monnun-y15' },
+          // { text: 'Farþegabátar, farþega- og flutningaskip', link: '/logskraning/monnun-fartega' },
         ]
       },
       // {

@@ -1,7 +1,7 @@
 # Forsendur lögskráningar
 
 <span class="badge yellow">Fiskiskip</span>
-<span class="badge blue ml-3">Önnur skip</span>
+<span class="badge gray ml-3">Önnur skip</span>
 
 <br/>
 Til þess að lögskráning einstaklings fari í gegn þurfa tiltekin skilyrði að vera uppfylllt. Ef ekki, mun kerfið birta eitt af eftirfarandi skilaboðum:
@@ -10,7 +10,7 @@ Til þess að lögskráning einstaklings fari í gegn þurfa tiltekin skilyrði 
 
 ::: info Ef skip hefur ekki gilt haffærisskírteini:
 
-<span class="badge yellow">Haffærisskírteini ekki í gildi</span>
+<span class="badge yellow-l">Haffærisskírteini ekki í gildi</span>
 
 <br/>
 
@@ -24,7 +24,7 @@ Sækja þarf um útgáfu haffærisskírteinis, eftir að skoðanir hafa farið f
 
 
 ::: info Ef skip hefur ekki gilda áhafnartryggingu:
-<span class="badge yellow">Engin áhafnatrygging er í gildi fyrir þetta skip</span>
+<span class="badge yellow-l">Engin áhafnatrygging er í gildi fyrir þetta skip</span>
 
 <br/>
 
@@ -34,7 +34,7 @@ Hafa þarf samband við tryggingarfélag útgerðar.
 
 ::: info Ef lögskrá á fleiri um borð en áhafnatrygging miðar við:
 
-<span class="badge yellow">Ekki áhafnatrygging fyrir fleiri á viðkomandi skipi</span>
+<span class="badge yellow-l">Ekki áhafnatrygging fyrir fleiri á viðkomandi skipi</span>
 
 <br/>
 
@@ -45,7 +45,7 @@ Hafa þarf samband við tryggingarfélag útgerðar.
 
 ::: info Ef lögskrá á einstakling í stöðu sem hann hefur ekki réttindi til að gegna:
 
-<span class="badge yellow">Einstakling vantar réttindi til að gegna þessari stöðu á þessu skipi
+<span class="badge yellow-l">Einstakling vantar réttindi til að gegna þessari stöðu á þessu skipi
 </span>
 
 <br/>
@@ -59,7 +59,7 @@ Sækja þarf um atvinnuréttindi eða endurnýja réttindi sem eru útrunnin.
 
 ::: info Ef lögskrá á einstakling sem ekki hefur lokið öryggisfræðslu smábáta (T1) (<12m eða <15m):
 
-<span class="badge yellow">Hefur ekki lokið öryggisfræðslu smábáta</span>
+<span class="badge yellow-l">Hefur ekki lokið öryggisfræðslu smábáta</span>
 
 <br/>
 
@@ -72,7 +72,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 
 ::: info Ef lögskrá á einstakling sem ekki hefur endurnýjað öryggisfræðslu smábáta (T2) (<12m eða <15m):
 
-<span class="badge yellow">Hefur ekki lokið endurmenntun á öryggisfræðslu smábáta</span>
+<span class="badge yellow-l">Hefur ekki lokið endurmenntun á öryggisfræðslu smábáta</span>
 
 <br/>
 
@@ -86,7 +86,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 
 ::: info Ef lögskrá á einstakling sem ekki hefur lokið grunnöryggisfræðslu (ST) (>15m):
 
-<span class="badge yellow">Hefur ekki lokið grunnöryggisfræðslu sjómanna</span>
+<span class="badge yellow-l">Hefur ekki lokið grunnöryggisfræðslu sjómanna</span>
 
 <br/>
 
@@ -100,7 +100,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 
 ::: info Ef lögskrá á einstakling sem ekki hefur endurnýjað grunnöryggisfræðslu (EM) (>15m):
 
-<span class="badge yellow">Hefur ekki lokið endurmenntun á grunnöryggisfræðslu sjómanna</span>
+<span class="badge yellow-l">Hefur ekki lokið endurmenntun á grunnöryggisfræðslu sjómanna</span>
 
 <br/>
 
@@ -114,7 +114,7 @@ Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér;
 
 ::: info Ef lögskrá á einstakling sem er lögskráður á annað skip:
 
-<span class="badge yellow">Einstaklingur er lögskráður á annað skip (xxxx) á gefinni dagsetningu lögskráningar</span>
+<span class="badge yellow-l">Einstaklingur er lögskráður á annað skip (xxxx) á gefinni dagsetningu lögskráningar</span>
 
 <br/>
 

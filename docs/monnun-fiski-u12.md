@@ -14,10 +14,11 @@ Einstaklingurinn þarf að hafa lokið a.m.k. **öryggisfræðslu smábáta (T1)
 <br/>
 <br/>
 
-<span class="badge dark">Vélarafl <250 kW</span>
+<span class="badge dark">Vélarafl undir 250 kW </span>
 
 
 ### Útivist er innan við 14 klst:
+
 
 Lágmarksmönnun er **skipstjóri (SS)**. Ekki þarf **smáskipavélavörð (SSV)** ef vélarafl skipsins er minna en 250 kW:
 

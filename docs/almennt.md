@@ -11,7 +11,7 @@
 
 [https://skutan.samgongustofa.is](https://skutan.samgongustofa.is/loginForm)
 
-##  Nýtt Lögskráningarkerfi sjómanna 
+## Lögskráningarkerfi sjómanna 
 
 
 ::: details Kennslumyndband
@@ -43,28 +43,50 @@
 Lögskráningaraðilar skrá sig inn með rafrænum skilríkjum í gegnum `island.is`
 
 <figure>
-  <img src='/images/innskra.png'>
-  <figcaption>Innskráning</figcaption>
+  <img src='/images/island.png'>
+  <figcaption></figcaption>
 </figure> 
 
-Ef ekki tekst að skrá sig inn sendið þá tölvupóst á [Skútan](mailto:skutan@samgongustofa.is)
+Ef ekki tekst að skrá sig inn - [Spurt og svarað](https://www.samgongustofa.is/skutan)
 
 Þeir sem ekki hafa aðgang til að lögskrá (eða vilja **lögskrá á fleiri skip**) geta sótt um [lögskráningaraðgang hér](https://eydublod.samgongustofa.is/zEK2CL_cgku8mCyr7VDz3Q1)
 
 
 
-## Val á skipi
+## Velja skip
 
 Eftir innskráningu birtist listi yfir þau skip sem lögskráningaraðili hefur heimild til að lögskrá á. Smellt er á skipaskrárnúmerið og opnast þá lögskráningarsíða skipsins.
 
-<figure>
-  <img src='/images/skipalisti.png'>
-  <figcaption>Listi skipa sem lögskráningaraðili getur lögskráð á</figcaption>
-</figure> 
+
+
+|     |     |    |    |  
+|:-----------|:-----------|:-----------|:-----------|
+| <a><span class="badge-xl gray text-blue">2941</span> </a>   |  <span class="badge-big ml-3">HERJÓLFUR </span> | VE-30 | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> | 
+| <span class="badge-xl gray">2350</span>    |  <span class="badge-big ml-3">ÁRNI FRIÐRIKSSON </span> | RE-77 | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 ::: tip Ábending
 Ef notandi hefur einungis heimild til að lögskrá á eitt skip, opnast lögskráningarsíðu skips.
 :::
+<!-- <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
+</small> -->
+
+## Merking tákna
+
+|  |  |
+|:----|:----|
+| <img src='/logskraning/images/icon_check.png' class="icon-small">| Lögskráð hefur verið í stöðuna |
+| <img src='/logskraning/images/icon_question.png' class="icon-small">| Ekki er skylt að lögskrá í stöðuna |
+| <img src='/logskraning/images/icon_warn.png' class="icon-small">| Ekki er búið að lögskrá í stöðuna |
+
+
+<br/>
+
+<!-- <figure>
+  <img src='/images/skipalisti.png'>
+  <figcaption>Listi skipa sem lögskráningaraðili getur lögskráð á</figcaption>
+</figure>  -->
+
+
 
 
 

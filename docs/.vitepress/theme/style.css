@@ -34,7 +34,7 @@
   --s-yellow-l: #f9e6c4;
   --s-green: #3BBA8E;
   --s-red: #f02a52;
-  --s-purple: #7351bc;
+  --s-purple: #2d2049;
 
   --sam-blue: #242366;
   --sam-pink: #F38396;
@@ -310,6 +310,14 @@ h1 {
 .badge-big {
   /* width: 200px !important; */
   font-size: 1.111rem;
+  font-weight: 700;
+  padding: 10px 10px;
+  margin: 3rem -0.5rem;
+  border-radius: 4px;
+}
+.badge-xl {
+  /* width: 200px !important; */
+  font-size: 1.5rem;
   font-weight: 700;
   padding: 10px 10px;
   margin: 3rem -0.5rem;

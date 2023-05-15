@@ -9,7 +9,14 @@
 <br/>
 <br/>
 
+
+
 # Farþegabátar
+<figure>
+  <img src='/images/fartegabatur.png'>
+</figure> 
+
+
 mega flytja **12 farþega og færri** samkvæmt farþegaleyfi. Lágmarksmönnun fer eftir skráningarlengd og vélarafli:
 
 ## Skipstjórn
