@@ -92,7 +92,7 @@ Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smás
 Á fiskiskipum og öðrum skipum 12m og styttri að skráningarlengd og með aðalvél 250-750kW þarf **skipstjóra** og **smáskipavélavörð** um borð. Skipstjóri má einnig gegna störfum smáskipavélavarðar hafi hann þau réttindi, að öðrum kosti þarf auk þess að lögskrá smáskipavélavörð
 
 
-::: info vélarafl undir 250kW
+::: info Vélarafl undir 250kW
 
 ekki þarf smáskipavélavörð (SSV) ef vélarafl skipsins er 249 kW eða minna:
 
@@ -156,7 +156,7 @@ Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavör�
 
 
 
-
+<!-- 
 ## Eftirfarandi tilkynningar birtast þegar reynt er að lögskrá: 
 
 
@@ -222,10 +222,10 @@ viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér
 - Viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér 
 
 [Umsókn um frest](https://eydublod.samgongustofa.is/26635894123012325331)
-:::
+::: -->
 
 
-
+<!-- 
 ::: info einstaklingur er lögskráður á annað skip:
 
 <span style="background: #F7DD92; color: black; padding: 10px; border-radius: 6px;">Einstaklingur er/var lögskráður á annað skip (skipaskrárnúmer) á gefinni dagsetningu lögskráningar</span>
@@ -233,7 +233,7 @@ viðkomandi þarf að skrá sig í slysavarnaskólann og sækja um frest hér
 - Hafa þarf samband við útgerð skipsins sem eintstaklingur er lögskráður á eða senda t.p. til lögskráningardeild Samgöngustofu 
 
 [Afskrá einstakling](mailto:logskraning@samgongustofa.is)
-:::
+::: -->
 
 
 
