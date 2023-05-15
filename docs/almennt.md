@@ -61,8 +61,8 @@ Eftir innskráningu birtist listi yfir þau skip sem lögskráningaraðili hefur
 
 |     |     |    |    |  
 |:-----------|:-----------|:-----------|:-----------|
-| <a><span class="badge-xl gray text-blue">2941</span> </a>   |  <span class="badge-big ml-3">HERJÓLFUR </span> | VE-30 | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> | 
-| <span class="badge-xl gray">2350</span>    |  <span class="badge-big ml-3">ÁRNI FRIÐRIKSSON </span> | RE-77 | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <a><span class="badge-xl gray text-blue">2941</span> </a>   |  <span class="badge-big">HERJÓLFUR </span> | VE-30 | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> | 
+| <span class="badge-xl gray">2350</span>    |  <span class="badge-big">ÁRNI FRIÐRIKSSON </span> | RE-77 | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 ::: tip Ábending
 Ef notandi hefur einungis heimild til að lögskrá á eitt skip, opnast lögskráningarsíðu skips.
