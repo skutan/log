@@ -1,17 +1,31 @@
-<br/>
-
 # Mönnunarreglur 
 
 ## Lögskráningar á farþegabáta, farþega- og flutningaskip
 
 <!-- <span class="badge blue">Undir 12 m </span>
 <span class="badge yellow ml-3">250-750 kW</span> -->
+<br/>
 
-
+::: details Lágmarksmönnun
 
 Lágmarksmönnun á **fiskiskipum og öðrum skipum** er ákveðin í lögum um áhafnir skipa nr. **82/2002** og tekur hún aðeins til skip- og vélstjórnarmanna og fjöldi annarra í áhöfn er ákveðin af útgerð.
 
-Lágmarksmönnun (heildarmönnun) farþegabáta, farþega- og flutningaskipa er hins vegar ákveðin af Samgöngustofu sem gefur út öryggismönnunarskírteini (Minimum Safe Manning Document) þegar um ferjur (Herjólfur, Baldur, Sævar og Sæfari) er að ræða, en annars er öryggismönnun ákveðin í farþegaleyfi skipanna. Öryggismönnun þessara skipa ræðst af mörgum atriðum og getur lágmarksmönnun verið ólík á milli skipa. Þessi atriði geta t.d. verið stærð skips, stærð aðalvélar, farsvið, búnaður, lengd siglingar, fjöldi farþega, vinnu- og hvíldartími áhafnar, stærð og fjöldi gúmmíbjörgunarbáta, neyðaráætlun, sætafjöldi og rými á söfnunarstað í neyðartilvikum.
+Lágmarksmönnun (heildarmönnun) **farþegabáta, farþega- og flutningaskipa** er hins vegar ákveðin af Samgöngustofu sem gefur út öryggismönnunarskírteini (Minimum Safe Manning Document) þegar um ferjur (Herjólfur, Baldur, Sævar og Sæfari) er að ræða, en annars er öryggismönnun ákveðin í farþegaleyfi skipanna. Öryggismönnun þessara skipa ræðst af mörgum atriðum og getur lágmarksmönnun verið ólík á milli skipa. Þessi atriði geta t.d. verið stærð skips, stærð aðalvélar, farsvið, búnaður, lengd siglingar, fjöldi farþega, vinnu- og hvíldartími áhafnar, stærð og fjöldi gúmmíbjörgunarbáta, neyðaráætlun, sætafjöldi og rými á söfnunarstað í neyðartilvikum.
+
+
+## Merking tákna
+|  |  |
+|:----|:----|
+| <img src='/logskraning/images/icon_check.png' class="icon-small">| Lögskráð hefur verið í stöðuna |
+| <img src='/logskraning/images/icon_question.png' class="icon-small">| Ekki er skylt að lögskrá í stöðuna |
+| <img src='/logskraning/images/icon_warn.png' class="icon-small">| Ekki er búið að lögskrá í stöðuna |
+| <span class="badge-big text-link ">S</span>| Sérregla |
+| <span class="badge-big text-green">V</span>| Viðbótarstaða |
+
+
+:::
+
+<br/>
 
 ::: info Til að unnt sé að lögskrá á farþegabát eða farþegaskip þarf:
 - haffæri að vera í gildi
@@ -28,18 +42,7 @@ training) og námskeiði í hóp- og neyðarstjórn. Ef viðkomandi hefur lokið
 
 
 
-::: details Merking tákna
 
-Lágmarksmönnun skips miðast við skráningarlengd, brúttótonn og vélarafli þess.
-
-|  |  |
-|:----|:----|
-| <img src='/logskraning/images/icon_check.png' class="icon-small">| Lögskráð hefur verið í stöðuna |
-| <img src='/logskraning/images/icon_question.png' class="icon-small">| Ekki er skylt að lögskrá í stöðuna |
-| <img src='/logskraning/images/icon_warn.png' class="icon-small">| Ekki er búið að lögskrá í stöðuna |
-| <span class="badge-big text-link ">S</span>| Sérregla |
-| <span class="badge-big text-green">V</span>| Viðbótarstaða |
-:::
 
 
 ## Farþegabátar
@@ -237,7 +240,7 @@ Ef músarbendill er staðsettur yfir V tákninu má sjá nánari upplýsingar um
 Í farþegaleyfum sumra farþegabáta og farþegaskipa er heimilað að skipstjóri **(SK/SSV)** geti líka gegnt stöðu vélstjóra um borð, enda hafi hann tilskilin vélstjórnarréttindi. Við lögskráningu er þá valin samsett staða - **Skipstjóri/smáskipavélavörður (SK/SSV)**:
 
 <figure>
-  <img src='/images/samsett-sk-ssv.png'>
+  <img src='/images/samsett-sk-ssv.png'  class="img-small">
   <figcaption>Samsett staða - Skipstjóri/smáskipavélavörður</figcaption>
 </figure> 
 

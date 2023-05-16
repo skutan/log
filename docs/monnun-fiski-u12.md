@@ -1,9 +1,25 @@
 # Mönnunarreglur 
 
-## Fiskiskip og önnur skip
+## Lögskráningar á fiskiskip og önnur skip <12m og 750kW
 
-<span class="badge blue">Undir 12 m </span>
-<span class="badge yellow ml-3">250-750 kW</span>
+<br/>
+
+::: details Lágmarksmönnun
+
+Lágmarksmönnun á **fiskiskipum og öðrum skipum** er ákveðin í lögum um áhafnir skipa nr. **82/2002** og tekur hún aðeins til skip- og vélstjórnarmanna og fjöldi annarra í áhöfn er ákveðin af útgerð.
+
+
+## Merking tákna
+|  |  |
+|:----|:----|
+| <img src='/logskraning/images/icon_check.png' class="icon-small">| Lögskráð hefur verið í stöðuna |
+| <img src='/logskraning/images/icon_question.png' class="icon-small">| Ekki er skylt að lögskrá í stöðuna |
+| <img src='/logskraning/images/icon_warn.png' class="icon-small">| Ekki er búið að lögskrá í stöðuna |
+| <span class="badge-big text-link ">S</span>| Sérregla |
+| <span class="badge-big text-green">V</span>| Viðbótarstaða |
+:::
+
+
 
 <br/>
 
@@ -14,7 +30,7 @@ Einstaklingurinn þarf að hafa lokið a.m.k. **öryggisfræðslu smábáta (T1)
 <br/>
 <br/>
 
-<span class="badge dark">Vélarafl undir 250 kW </span>
+<span class="badge-big dark">Vélarafl <250 kW </span>
 
 
 ### Útivist er innan við 14 klst:
@@ -22,10 +38,10 @@ Einstaklingurinn þarf að hafa lokið a.m.k. **öryggisfræðslu smábáta (T1)
 
 Lágmarksmönnun er **skipstjóri (SS)**. Ekki þarf **smáskipavélavörð (SSV)** ef vélarafl skipsins er minna en 250 kW:
 
-|  Staða   |  Flokkur   |    |  
+|     |     |    |  
 |:-----------|:-----------|:-----------|
-| <span class="badge-big">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
-| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
+| <span class="badge">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 
 <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
@@ -37,11 +53,10 @@ Lágmarksmönnun er **skipstjóri (SS)**. Ekki þarf **smáskipavélavörð (SSV
 
 Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smáskipavélavörð (SSV)** ef vélarafl skipsins er minna en 250 kW:
 
-|  Staða   |  Flokkur   |    |  
+|     |     |    |  
 |:-----------|:-----------|:-----------|
-| <span class="badge-big1">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small"> |
-| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small"> |
-
+| <span class="badge">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small"> |
+| <span class="badge">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray1  ml-3">(SS) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small"> |
 
 <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
 </small>
@@ -50,19 +65,19 @@ Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smás
 <br/>
 <br/>
 
-<span class="badge dark">Vélarafl 250-750 kW</span>
+<span class="badge-big dark">Vélarafl 250-750 kW</span>
 
 
 ### Útivist er innan við 14 klst:
 
-Lágmarksmönnun er **skipstjóri (SS)**. Ekki þarf **smáskipavélavörð (SSV)** ef vélarafl skipsins er minna en 250 kW:
+Lágmarksmönnun er skipstjóri **(SS)** og smáskipavörður **(SSV)**. Skipstjóri má einnig gegna störfum smáskipavélavarðar hafi hann þau réttindi, að öðrum kosti þarf að lögskrá smáskipavélavörð **(SSV)**:
 
-|  Staða   |  Flokkur   |    |  
+|     |     |    |  
 |:-----------|:-----------|:-----------|
-| <span class="badge-big">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
-| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
-| <span class="badge-big">Smáskipavélavörður<small class="ml-3">(SSV)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_warn.png' class="icon-small ml-3"> |
-| <span class="badge-big">Smáskipavélavörður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
+| <span class="badge">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SSV)</small></span>    |  <span class="badge-big gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_warn.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SS)</small></span>    |  <span class="badge gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 
 <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
@@ -70,14 +85,17 @@ Lágmarksmönnun er **skipstjóri (SS)**. Ekki þarf **smáskipavélavörð (SSV
 
 <br/>
 
+
 ### Útivist er lengri en 14 klst:
 
-Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smáskipavélavörð (SSV)** ef vélarafl skipsins er minna en 250 kW:
+Lágmarksmönnun er skipstjóri **(SS)** og stýrimaður **(SS)**. Skipstjóri og/eða stýrimaður mega einnig gegna störfum smáskipavélavarða hafi þeir þau réttindi. Að öðrum kosti þarf að lögskrá smáskipavélavörð **(SSV)**. Hafi annar þeirra réttindi smáskipavélavarðar þarf að lögskrá einn smáskipavélavörð. Hafi hvorugur þeirra þau réttindi þarf að lögskrá tvo smáskipavélaverði:
 
-|  Staða   |  Flokkur   |    |  
+|     |     |    |  
 |:-----------|:-----------|:-----------|
-| <span class="badge-big">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
-| <span class="badge-big">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="ml-3 font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
+| <span class="badge">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SSV)</small></span>    |  <span class="badge-big gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_warn.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SS)</small></span>    |  <span class="badge gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 
 <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
@@ -86,8 +104,55 @@ Lágmarksmönnun er **skipstjóri** og **stýrimaður (SS)**. Ekki þarf **smás
 
 
 
+## Þjónustusamningar
+
+Ekki þarf smáskipavélavörð **(SSV)** ef gerður hefur verið samningur við þjónustuaðila í landi um viðhald vélbúnaðar skipsins og sá samingur er staðfestur af Samgöngustofu. Í þeim
+tilvikum eru stöður smáskipavélavarðar <span class="text-link">S</span> merktar, og þarf þá ekki smáskipavélavörð, hvort sem útivist er innan 14 klst. eða lengri:
+
+|     |     |    |  
+|:-----------|:-----------|:-----------|
+| <span class="badge">Skipstjóri<small class="ml-3">(SK)</small></span>    |  <span class="badge-big gray  ml-3">(SS) </span> | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> |
+| <span class="badge">Stýrimaður<small class="ml-3">(SS)</small></span>    |  <span class="badge-big gray  ml-3">(SS) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SSV)</small></span>    |  <span class="badge-big gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_warn.png' class="icon-small ml-3"> |
+| <span class="badge">Smáskipavélavörður<small class="ml-3">(SS)</small></span>    |  <span class="badge gray  ml-3">(SSV) <span class="font-red">*</span></span> | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 
+<span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
+</small>
+
+::: tip Ábending
+Ef músarbendill er staðsettur yfir S tákninu má sjá nánari upplýsingar um þjónustusamninginn
+::: 
+
+
+
+
+## Samsettar stöður
+
+### Skipstjóri er líka smáskipavélavörður
+Skipstjóri **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <12 m og má einnig vera smáskipavélavörður **(SSV)** ef hann hefur þau atvinnuréttindi. Við lögskráningu er þá valin samsett staða - Skipstjóri/smáskipavélavörður **(SS/SSV)**:
+
+<br/>
+
+<figure>
+  <img src='/images/samsett-sk-ssv.png' class="img-small">
+  <figcaption>Samsett staða - Skipstjóri/smáskipavélavörður</figcaption>
+</figure> 
+
+<br/>
+
+
+### Skipstjóri er líka smáskipavélavörður
+Stýrimaður **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <12 m og má einnig vera smáskipavélavörður **(SSV)** ef hann er hefur þau atvinnuréttindi. Við lögskráningu er þá valin samsett staða - Stýrimaður/smáskipavélavörður **(SS/SSV)**:
+
+<!-- <figure>
+  <img src='/images/samsett-sk-ssv.png'  class="img-small">
+  <figcaption>Samsett staða - Stýrimaður/smáskipavélavörður (SS/SSV)</figcaption>
+</figure>  -->
+
+
+
+<!-- 
 
 Á fiskiskipum og öðrum skipum 12m og styttri að skráningarlengd og með aðalvél 250-750kW þarf **skipstjóra** og **smáskipavélavörð** um borð. Skipstjóri má einnig gegna störfum smáskipavélavarðar hafi hann þau réttindi, að öðrum kosti þarf auk þess að lögskrá smáskipavélavörð
 
@@ -110,11 +175,11 @@ Skipstjóri (SS) þarf að vera handhafi gilds skipstjórnarskírteinis <12m og 
 
 Á fiskiskipum og öðrum skipum 12m. og styttri að skráningarlengd og með aðalvél 250-750kW þarf **skipstjóra** (SS) og **stýrimann** (SS) um borð, sem báðir þurfa að hafa skipstjórnarréttindi <12m. Skipstjóri og stýrimaður má einnig gegna störfum smáskipavélavarðar hafi þeir þau réttindi, að öðrum kosti þarf auk þess að lögskrá 2 smáskipavélaverði. Ef skipstjóri hefur réttindi smáskipavélavarðar en ekki stýrimaður, þarf auk þess einn smáskipavélavörð um borð.
 
-Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavörður (SS/SSV) og/eða Stýrimaður/smáskipavélavörður (SS/SSV): 
+Við lögskráningu er þá valin samsett staða **Skipstjóri/smáskipavélavörður (SS/SSV)** og/eða **Stýrimaður/smáskipavélavörður (SS/SSV)**:  -->
 
 
 
-<br/>
+<!-- <br/>
 <br/>
 <br/>
 
@@ -128,7 +193,7 @@ Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavör�
 ::: info Útgerð getur óskað eftir því að láta Samgöngustofa lögskrá á eigið skip:
 
 [Lögskráning á vegum Samgöngustofu](https://eydublod.samgongustofa.is/27635895003040018549)
-:::
+::: -->
 
 
 
@@ -149,7 +214,7 @@ Við lögskráningu er þá valin samsett staða Skipstjóri/smáskipavélavör�
 
 
 
-<span style="color: red">*</span> Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákvæði sjómannalaga
+<!-- <span style="color: red">*</span> Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákvæði sjómannalaga -->
 
 
 

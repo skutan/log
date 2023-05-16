@@ -467,6 +467,11 @@ img {
   width: 24px;
   /* margin: 0rem 2rem; */
 }
+.img-small {
+  width: 50%;
+  /* margin: 0rem 2rem; */
+}
+
 
 .DocSearch-Button-Placeholder::after {
 
