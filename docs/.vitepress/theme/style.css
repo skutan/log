@@ -27,6 +27,7 @@
   --vp-custom-block-warning-bg: #faefcb;
 
   --s-blue: #3269b1;
+  --s-blue2: #0B6DD8;
   --s-gray: #f1f1f1;
   --bg-gray: #f4f4f4;
   --s-orange: #F7A12F;
@@ -333,10 +334,24 @@ h1 {
   color: white;
 }
 .font-red {
-  color: var(--s-red);;
+  color: var(--s-red);
+}
+.text-link {
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--s-blue2);
+}
+.text-green {
+  font-weight: 700;
+  font-size: 1.4rem;
+  color: var(--s-green);
 }
 .gray {
   background-color: var(--s-gray);
+  color: black;
+}
+.yellow-l {
+  background-color: var(--s-yellow-l);
   color: black;
 }
 .dark {
@@ -385,7 +400,7 @@ h1 {
   font-size: 1rem !important;
 }
 .vp-doc th {
-  background-color: var(--s-blue2);
+  background-color: var(--s-white);
   /* color: white; */
   border-bottom: 2px solid black !important;
 }
@@ -449,7 +464,7 @@ img {
 
 
 .icon-small {
-  width: 30px;
+  width: 24px;
   /* margin: 0rem 2rem; */
 }
 

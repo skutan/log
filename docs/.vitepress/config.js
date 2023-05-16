@@ -72,6 +72,7 @@ export default ({
         collapsed: false,
         items: [
           { text: 'Fiskiskip og önnur skip <12m', link: '/monnun-fiski-u12' },
+          { text: 'Farþegabátar, farþega- og flutningarskip', link: '/monnun-fartega' },
           // { text: 'Fiskiskip og önnur skip <15m, <750kW', link: '/monnun/fiski-u15' },
           // { text: 'Fiskiskip og önnur skip >15m', link: '/logskraning/monnun-y15' },
           // { text: 'Farþegabátar, farþega- og flutningaskip', link: '/logskraning/monnun-fartega' },
