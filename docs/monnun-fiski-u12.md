@@ -145,10 +145,10 @@ Skipstjóri **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <
 ### Skipstjóri er líka smáskipavélavörður
 Stýrimaður **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <12 m og má einnig vera smáskipavélavörður **(SSV)** ef hann er hefur þau atvinnuréttindi. Við lögskráningu er þá valin samsett staða - Stýrimaður/smáskipavélavörður **(SS/SSV)**:
 
-<!-- <figure>
-  <img src='/images/samsett-sk-ssv.png'  class="img-small">
+<figure>
+  <img src='/images/samsett-ss-ssv.png'  class="img-small">
   <figcaption>Samsett staða - Stýrimaður/smáskipavélavörður (SS/SSV)</figcaption>
-</figure>  -->
+</figure> 
 
 
 

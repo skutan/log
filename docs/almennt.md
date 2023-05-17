@@ -29,14 +29,13 @@
 
 <!-- ## Upplýsingasíða um nýja lögskráningakerfið -->
 
-[Nánar um nýja lögskráningakerfið - útprentun](https://www.samgongustofa.is/skutan)
-<br/>
+<!-- [Nánar um nýja lögskráningakerfið - útprentun](https://www.samgongustofa.is/skutan) -->
 <br/>
 
-
+<!-- 
 ::: info Athygli útgerða og lögskráningaraðila
  er vakin á því að hægt er að lögskrá áhöfn 3 daga fram í tímann, þannig að ganga þarf frá lögskráningu og/eða afskráningu fyrir lokun lögskráningarkerfisins klukkan (12.00) föstudaginn 12. maí, ef skip heldur úr höfn á föstudegi, laugardegi eða sunnudegi á meðan lögskráningarkerfið er lokað
-:::
+::: -->
 
 ## Innskráning
 
@@ -58,7 +57,7 @@ Ef ekki tekst að skrá sig inn - [Spurt og svarað](https://www.samgongustofa.i
 
 
 
-## Velja skip
+## Listi skipa
 
 Eftir innskráningu birtist listi yfir þau skip sem lögskráningaraðili hefur heimild til að lögskrá á. Smellt er á skipaskrárnúmerið og opnast þá lögskráningarsíða skipsins.
 
@@ -66,11 +65,11 @@ Eftir innskráningu birtist listi yfir þau skip sem lögskráningaraðili hefur
 
 |     |     |    |    |  
 |:-----------|:-----------|:-----------|:-----------|
-| <a><span class="badge-xl gray text-blue">2941</span> </a>   |  <span class="badge-big">HERJÓLFUR </span> | VE-30 | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> | 
-| <span class="badge-xl gray">2350</span>    |  <span class="badge-big">ÁRNI FRIÐRIKSSON </span> | RE-77 | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
+| <a><span class="badge-big gray1 text-link">2941</span> </a>   |  <span class="badge-big">HERJÓLFUR </span> | VE-30 | <img src='/logskraning/images/icon_check.png' class="icon-small ml-3"> | 
+| <span class="badge-big gray1 text-link">2350</span>    |  <span class="badge-big">ÁRNI FRIÐRIKSSON </span> | RE-77 | <img src='/logskraning/images/icon_question.png' class="icon-small ml-3"> |
 
 ::: tip Ábending
-Ef notandi hefur einungis heimild til að lögskrá á eitt skip, opnast lögskráningarsíðu skips.
+Ef notandi hefur einungis heimild til að lögskrá á eitt skip birtist lögskráningarsíða skipsins beint eftir innskráningu.
 :::
 <!-- <span class="ml-3 font-red">*</span> <small>Manna þarf þessa stöðu og lögskrá ef útivist skipsins fer yfir 14 klst, sbr. ákveði sjómannalaga
 </small> -->
@@ -112,7 +111,7 @@ Eftir að skip hefur verið valið birtist lögskráningarsíða skipsins.
 Til að velja einstakling sem lögskrá á er smellt í reitinn Kennitala/Nafn einstaklings og nafn eða kennitala skráð.
 
 <figure>
-  <img src='/images/logskra1.png'>
+  <img src='/images/logskra1.png' class="img-small">
   <figcaption></figcaption>
 </figure> 
 
@@ -120,6 +119,60 @@ Til að velja einstakling sem lögskrá á er smellt í reitinn Kennitala/Nafn e
 Næst er staðan valin úr fellivalmyndinni:
 
 <figure>
-  <img src='/images/logskra1.png'>
+  <img src='/images/logskra1.png' class="img-small">
   <figcaption></figcaption>
+</figure> 
+
+<br/>
+
+## Áður lögskráðir á skipið
+
+Hægt er að velja úr fellilista einstaklinga sem hafa áður verið á lögskráðir á skipið með því að smella á
+
+<br/>
+
+## Lögskráðir einstaklingar og afskráningar
+
+Listi birtist yfir alla lögskráða einstaklinga á núverandi dagsetningu. Hægt er að afskrá alla lögskráða einstaklinga með því að smella á Afskrá alla. Til að afskrá einstakling er smellt á <span class="text-red">x</span> táknið hægra megin í töflunni.
+
+<figure>
+  <img src='/images/tafla-logskradir.png' class="img-small">
+  <figcaption></figcaption>
+</figure> 
+
+<br/>
+
+## Stöðubreyta
+
+Ef stöðubreyta á einstaklingi er smellt á   táknið sem sést í töflunni hér að ofan og birtist skjámyndin:
+
+<figure>
+  <img src='/images/stodubreyta.png' class="img-small">
+  <figcaption></figcaption>
+</figure> 
+
+
+<br/>
+
+## Samsettar stöður
+
+### Skipstjóri er líka smáskipavélavörður
+Skipstjóri **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <12 m og má einnig vera smáskipavélavörður **(SSV)** ef hann hefur þau atvinnuréttindi. Við lögskráningu er þá valin samsett staða - Skipstjóri/smáskipavélavörður **(SS/SSV)**:
+
+<br/>
+
+<figure>
+  <img src='/images/samsett-sk-ssv.png' class="img-small">
+  <figcaption>Samsett staða - Skipstjóri/smáskipavélavörður</figcaption>
+</figure> 
+
+<br/>
+
+
+### Skipstjóri er líka smáskipavélavörður
+Stýrimaður **(SS)** þarf að vera handhafi gilds skipstjórnarskírteinis <12 m og má einnig vera smáskipavélavörður **(SSV)** ef hann er hefur þau atvinnuréttindi. Við lögskráningu er þá valin samsett staða - Stýrimaður/smáskipavélavörður **(SS/SSV)**:
+
+<figure>
+  <img src='/images/samsett-ss-ssv.png'  class="img-small">
+  <figcaption>Samsett staða - Stýrimaður/smáskipavélavörður (SS/SSV)</figcaption>
 </figure> 

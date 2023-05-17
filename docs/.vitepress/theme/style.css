@@ -194,8 +194,8 @@ figcaption {
 }
 .custom-block.details p {
   line-height: 2rem;
-  padding: 0.6rem;
-    text-align: justify;
+  padding: 0.8rem;
+    /* text-align: justify; */
 
 }
 
@@ -207,7 +207,7 @@ figcaption {
 
 }
 .custom-block.tip {
-  background-color: var(--s-gray) !important; 
+  /* background-color: var(--s-gray) !important;  */
   font-size: 1rem;
   padding: 1rem !important;
   border-left: 0px solid var(--sam-green);
@@ -223,9 +223,10 @@ figcaption {
   }
 
 .custom-block.info {
-  border: 1px solid var(--s-gray) !important; 
+  border: 0px solid var(--s-gray) !important; 
+  font-size: 1rem;
   /* background-color: transparent; */
-  background-color: var(--vp-custom-block-tip-bg); 
+  /* background-color: var(--s-gray);  */
   /* color: white; */
   padding: 1.5rem !important;
   margin-bottom: 2rem;
@@ -422,6 +423,7 @@ h1 {
   /* font-size: 2rem !important; */
 }
 h2 {
+  font-family: 'Merriweather';
   /* letter-spacing: 2px !important; */
 }
 img {
